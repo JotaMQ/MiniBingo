@@ -17,7 +17,9 @@ Datos a tener en cuenta antes de jugar:
 1- Seleccionar cuantos jugadores van a jugar (max. 5)
 
 2- Nombrar al jugador pertinente.
+
 3- Elegir cartón.
+
 4- Dejar que el programa juegue solo.
 
 ⚙️ Datos sobre el funcionamiento
