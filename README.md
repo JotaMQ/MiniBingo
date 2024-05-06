@@ -1,5 +1,6 @@
-MINIBINGO - MiniBingo es un juego que he programado en Python basado en el tradicional Bingo con el objetivo de aprender las bases de Python.
+MINIBINGO
 ========================================================================================================================================================================================
+MiniBingo es un juego que he programado en Python basado en el tradicional Bingo con el objetivo de aprender las bases de Python.
 
 📋 Normas de MiniBingo
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
