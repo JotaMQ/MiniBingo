@@ -14,10 +14,10 @@ Datos a tener en cuenta antes de jugar:
   - Recomiendo jugar en ventana máximizada.
   - Recomiendo indicarle una vez por lo menos que no te gusta el cartón que te ha generado.
 
-1- Seleccionar cuantos jugadores van a jugar (max. 5)
-2- Nombrar al jugador pertinente.
-3- Elegir cartón.
-4- Dejar que el programa juegue solo.
+  1- Seleccionar cuantos jugadores van a jugar (max. 5)
+  2- Nombrar al jugador pertinente.
+  3- Elegir cartón.
+  4- Dejar que el programa juegue solo.
 
 ⚙️ Datos sobre el funcionamiento
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
