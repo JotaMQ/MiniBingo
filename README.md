@@ -37,5 +37,5 @@ La ejecución del programa se divide en dos fases:
   - Una vez ha terminada la preparación del juego inicia la partida y esta acaba cuando algúno de los jugadores hace Bingo.
   - En cada ronda de forma aleatoria se "canta" un número que no se volverá a repetir durante el resto de la partida.
   - Se pinta en pantalla una interfaz dínamica en la que se pintan todos los cartones, el número "cantado", cual de los jugadores va ganado y el progreso de la partida.
-  - Al finalizar cada ronda se comprueba que cartones contienen el número "cantado", se tacha y se se comprueba si hay algúna linea o Bingo.
+  - Al finalizar cada ronda se comprueba que cartones contienen el número "cantado", se tacha y se se comprueba si hay algúna linea o Bingo. Además tambien se calcula el progreso de la partida y quien va ganando.
   - La partida finaliza una vez se canta el primer Bingo.
