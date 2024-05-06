@@ -14,6 +14,7 @@ Datos a tener en cuenta antes de jugar:
   - Es un juego de terminal de comandos.
   - Recomiendo jugar en ventana máximizada.
   - Recomiendo indicarle una vez por lo menos que no te gusta el cartón que te ha generado.
+  - El programa necesita una carpeta llamada "data" para funcionar, que él crea en el directorio dónde se ejecuta.
 
 1- Seleccionar cuantos jugadores van a jugar (max. 5)
 
